@@ -24,7 +24,7 @@ To enable your app to become a Device Policy Controller (DPC), you can do it usi
 3. Run the following command to make your app a device admin:
 
 ```bash
-adb shell dpm set-device-owner com.your_flutter_app_id/com.itisnajim.device_policy_controller.AppDeviceAdminReceiver
+adb shell dpm set-device-owner com.your_flutter_app_id/com.rayda.track.device_policy_controller.AppDeviceAdminReceiver
 ```
 Replace **`com.your_flutter_app_id`** with your app's bundle ID. You can find the app's bundle ID in **android/app/build.gradle** file, under `android.defaultConfig.applicationId`.
 
