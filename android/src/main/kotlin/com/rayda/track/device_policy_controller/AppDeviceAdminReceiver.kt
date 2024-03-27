@@ -1,4 +1,4 @@
-package com.itisnajim.device_policy_controller
+package com.rayda.track.device_policy_controller
 
 import android.app.admin.DeviceAdminReceiver
 import android.app.admin.DevicePolicyManager

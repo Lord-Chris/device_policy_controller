@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.itisnajim.device_policy_controller">
+    package="com.rayda.track.device_policy_controller">
 
   <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
   <uses-permission android:name=
@@ -17,8 +17,8 @@
       android:name="${applicationName}">
 
     <provider
-        android:authorities="com.itisnajim.device_policy_controller.multipreferences.MultiProvider"
-        android:name="com.itisnajim.device_policy_controller.multipreferences.MultiProvider"
+        android:authorities="com.rayda.track.device_policy_controller.multipreferences.MultiProvider"
+        android:name="com.rayda.track.device_policy_controller.multipreferences.MultiProvider"
         android:process=":multi_preferences"
         android:exported="false"/>
 

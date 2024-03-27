@@ -1,4 +1,4 @@
-package com.itisnajim.device_policy_controller
+package com.rayda.track.device_policy_controller
 
 import android.annotation.SuppressLint
 import android.app.Activity
@@ -17,7 +17,7 @@ import android.util.Base64
 import android.util.Log
 import android.view.ViewGroup
 import android.view.WindowManager
-import com.itisnajim.device_policy_controller.multipreferences.MultiPreferences
+import com.rayda.track.device_policy_controller.multipreferences.MultiPreferences
 import io.flutter.embedding.engine.plugins.FlutterPlugin
 import io.flutter.embedding.engine.plugins.activity.ActivityAware
 import io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding

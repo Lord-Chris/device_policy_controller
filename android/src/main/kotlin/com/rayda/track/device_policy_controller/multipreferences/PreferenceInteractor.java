@@ -1,4 +1,4 @@
-package com.itisnajim.device_policy_controller.multipreferences;
+package com.rayda.track.device_policy_controller.multipreferences;
 
 import android.content.Context;
 import android.content.SharedPreferences;
