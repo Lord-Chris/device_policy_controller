@@ -1,6 +1,5 @@
-package com.rayda.track.device_policy_controller
+package com.rayda.raydatrack.device_policy_controller
 
-import com.rayda.track.device_policy_controller.DevicePolicyControllerPlugin
 import io.flutter.plugin.common.MethodCall
 import io.flutter.plugin.common.MethodChannel
 import kotlin.test.Test

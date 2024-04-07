@@ -1,18 +1,18 @@
-package com.rayda.track.device_policy_controller.multipreferences;
+package com.rayda.raydatrack.device_policy_controller.multipreferences;
 
-import static com.rayda.track.device_policy_controller.multipreferences.MultiProvider.CODE_BOOLEAN;
-import static com.rayda.track.device_policy_controller.multipreferences.MultiProvider.CODE_INTEGER;
-import static com.rayda.track.device_policy_controller.multipreferences.MultiProvider.CODE_LONG;
-import static com.rayda.track.device_policy_controller.multipreferences.MultiProvider.CODE_PREFS;
-import static com.rayda.track.device_policy_controller.multipreferences.MultiProvider.CODE_REMOVE_KEY;
-import static com.rayda.track.device_policy_controller.multipreferences.MultiProvider.CODE_STRING;
-import static com.rayda.track.device_policy_controller.multipreferences.MultiProvider.createContentValues;
-import static com.rayda.track.device_policy_controller.multipreferences.MultiProvider.createQueryUri;
-import static com.rayda.track.device_policy_controller.multipreferences.MultiProvider.extractBooleanFromCursor;
-import static com.rayda.track.device_policy_controller.multipreferences.MultiProvider.extractIntFromCursor;
-import static com.rayda.track.device_policy_controller.multipreferences.MultiProvider.extractLongFromCursor;
-import static com.rayda.track.device_policy_controller.multipreferences.MultiProvider.extractStringFromCursor;
-import static com.rayda.track.device_policy_controller.multipreferences.MultiProvider.performQuery;
+import static com.rayda.raydatrack.device_policy_controller.multipreferences.MultiProvider.CODE_BOOLEAN;
+import static com.rayda.raydatrack.device_policy_controller.multipreferences.MultiProvider.CODE_INTEGER;
+import static com.rayda.raydatrack.device_policy_controller.multipreferences.MultiProvider.CODE_LONG;
+import static com.rayda.raydatrack.device_policy_controller.multipreferences.MultiProvider.CODE_PREFS;
+import static com.rayda.raydatrack.device_policy_controller.multipreferences.MultiProvider.CODE_REMOVE_KEY;
+import static com.rayda.raydatrack.device_policy_controller.multipreferences.MultiProvider.CODE_STRING;
+import static com.rayda.raydatrack.device_policy_controller.multipreferences.MultiProvider.createContentValues;
+import static com.rayda.raydatrack.device_policy_controller.multipreferences.MultiProvider.createQueryUri;
+import static com.rayda.raydatrack.device_policy_controller.multipreferences.MultiProvider.extractBooleanFromCursor;
+import static com.rayda.raydatrack.device_policy_controller.multipreferences.MultiProvider.extractIntFromCursor;
+import static com.rayda.raydatrack.device_policy_controller.multipreferences.MultiProvider.extractLongFromCursor;
+import static com.rayda.raydatrack.device_policy_controller.multipreferences.MultiProvider.extractStringFromCursor;
+import static com.rayda.raydatrack.device_policy_controller.multipreferences.MultiProvider.performQuery;
 
 import android.content.ContentResolver;
 

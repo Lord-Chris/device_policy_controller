@@ -1,4 +1,4 @@
-package com.rayda.track.device_policy_controller.multipreferences;
+package com.rayda.raydatrack.device_policy_controller.multipreferences;
 
 import android.content.ContentProvider;
 import android.content.ContentResolver;

@@ -1,4 +1,4 @@
-package com.rayda.track.device_policy_controller
+package com.rayda.raydatrack.device_policy_controller
 
 import android.app.admin.DeviceAdminReceiver
 import android.app.admin.DevicePolicyManager
@@ -6,7 +6,6 @@ import android.content.Context
 import android.content.Intent
 import android.preference.PreferenceManager
 import android.util.Log
-import android.view.KeyEvent
 import io.flutter.embedding.engine.FlutterEngine
 import io.flutter.embedding.engine.dart.DartExecutor
 
