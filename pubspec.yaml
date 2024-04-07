@@ -29,5 +29,5 @@ flutter:
     platforms:
       android:
         minSdkVersion: 21
-        package: com.rayda.track.device_policy_controller
+        package: com.rayda.raydatrack.device_policy_controller
         pluginClass: DevicePolicyControllerPlugin

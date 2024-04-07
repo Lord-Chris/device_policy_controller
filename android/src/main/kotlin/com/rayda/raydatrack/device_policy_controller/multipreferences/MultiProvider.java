@@ -19,7 +19,7 @@ import java.util.Map;
  */
 public class MultiProvider extends ContentProvider {
 
-    private static final String PROVIDER_NAME = "com.rayda.track.device_policy_controller.multipreferences.MultiProvider";
+    private static final String PROVIDER_NAME = "com.rayda.raydatrack.device_policy_controller.multipreferences.MultiProvider";
 
     /**
      * Define all Content Urls for each type, String, int, long & boolean

@@ -1,4 +1,4 @@
-group 'com.rayda.track.device_policy_controller'
+group 'com.rayda.raydatrack.device_policy_controller'
 version '1.0-SNAPSHOT'
 
 buildscript {
